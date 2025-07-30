@@ -1,0 +1,6 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1f2937"/>
+  <circle cx="150" cy="120" r="60" fill="#374151"/>
+  <rect x="90" y="190" width="120" height="80" rx="10" fill="#374151"/>
+  <text x="150" y="270" font-family="Arial" font-size="16" fill="#9ca3af" text-anchor="middle">Speaker Image</text>
+</svg>

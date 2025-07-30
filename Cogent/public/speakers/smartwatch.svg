@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Background with purple gradient -->
+  <rect width="800" height="600" fill="#8a2be2" opacity="0.2"/>
+  
+  <!-- Hand and wrist -->
+  <path d="M400 350 Q450 400 500 450 L550 500 Q600 550 650 500 L700 450" fill="none" stroke="#e0e0e0" stroke-width="40"/>
+  
+  <!-- Watch body -->
+  <rect x="350" y="250" width="150" height="200" rx="20" ry="20" fill="#2c3e50"/>
+  
+  <!-- Watch screen -->
+  <rect x="360" y="260" width="130" height="180" rx="10" ry="10" fill="#1976d2"/>
+  
+  <!-- Watch interface elements -->
+  <rect x="380" y="280" width="90" height="20" rx="5" ry="5" fill="white" opacity="0.7"/>
+  <rect x="380" y="310" width="90" height="20" rx="5" ry="5" fill="white" opacity="0.7"/>
+  <rect x="380" y="340" width="90" height="20" rx="5" ry="5" fill="white" opacity="0.7"/>
+  
+  <!-- Watch button -->
+  <rect x="510" y="320" width="10" height="40" rx="5" ry="5" fill="#95a5a6"/>
+  
+  <!-- Watch band top -->
+  <path d="M350 250 Q350 200 400 180 Q450 200 500 250" fill="#34495e"/>
+  
+  <!-- Watch band bottom -->
+  <path d="M350 450 Q350 500 400 520 Q450 500 500 450" fill="#34495e"/>
+</svg>
